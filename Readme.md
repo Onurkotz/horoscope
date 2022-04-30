@@ -1,1 +1,1 @@
-## The program that finds your horoscope.
+## This program finds your horoscope.
